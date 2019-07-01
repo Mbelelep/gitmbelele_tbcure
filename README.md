@@ -21,3 +21,5 @@ this is a mtbc picture
 
 ``KIDH is in TZ``
 
+~~KIDH is not in Kenya~~
+
