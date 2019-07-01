@@ -24,6 +24,9 @@ this is a mtbc picture
 ~~KIDH is not in Kenya~~
 
 >in the word of Caleb, computer is stupid and as a scienist, you need to think and tell it what to do
+
 -Tanzania
+
 -Uganda
+
 -Kenya
